@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Weberry
+ *
+ */
+module sampleHarvester {
+}
